@@ -1,0 +1,7 @@
+{
+  "name": "ShaderLens Studio",
+  "description": "A real-time WebGL camera filter studio with 20+ preset shaders and customizable parameters.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
